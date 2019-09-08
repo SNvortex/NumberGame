@@ -201,10 +201,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Flask server.NumberGame" />
       <item itemvalue="Python.__init__" />
       <item itemvalue="Python.app" />
       <item itemvalue="Python.config" />
+      <item itemvalue="Flask server.NumberGame" />
       <item itemvalue="Python tests.Unittests in app_test.py" />
     </list>
     <recent_temporary>
