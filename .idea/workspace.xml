@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c38670b0-f2be-4e64-8bed-28635176dcda" name="Default Changelist" comment="" />
+    <list default="true" id="c38670b0-f2be-4e64-8bed-28635176dcda" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,10 +201,10 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Flask server.NumberGame" />
       <item itemvalue="Python.__init__" />
       <item itemvalue="Python.app" />
       <item itemvalue="Python.config" />
-      <item itemvalue="Flask server.NumberGame" />
       <item itemvalue="Python tests.Unittests in app_test.py" />
     </list>
     <recent_temporary>
@@ -219,7 +221,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="adb5f999-7e48-4ad7-96a0-3b3fd4453dac" name="Default Changelist" comment="" />
+      <changelist id="c38670b0-f2be-4e64-8bed-28635176dcda" name="Default Changelist" comment="" />
       <created>1563023094497</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -238,6 +240,7 @@
       <workItem from="1566898976072" duration="2520000" />
       <workItem from="1567500450964" duration="597000" />
       <workItem from="1567934684250" duration="557000" />
+      <workItem from="1567937113341" duration="1200000" />
     </task>
     <servers />
   </component>
@@ -253,12 +256,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90475000" />
+    <option name="totallyTimeSpent" value="92346000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="25" width="1551" height="875" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983388" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25315616" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
